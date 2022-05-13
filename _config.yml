@@ -94,7 +94,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Tsinghua I learnt most of my key skills. I thouroughly enjoyed my time as university and Tsinghua has taught me a lot .
+          In the past four years, I learnt most of my knowledge about computer science at Tsinghua University. 
+          
+          I enjoyed my time here and Tsinghua has taught me a lot beyond knowledge.
 
 
   # - title: A Little More About Me
