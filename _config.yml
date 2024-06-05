@@ -7,14 +7,14 @@ version: 2
 
 # Personal info
 name: Han Huang
-title: Computer Science and Technology
-email: huanghan2022@ia.ac.cn
+title: PhD Student at Institute of Automation
+email: han.huang@cripac.ia.ac.cn
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-github_username:  hyman25
+github_username:  hanhuang22
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -46,9 +46,7 @@ github_username:  hyman25
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Han Huang and I'm a student in Tsinghua University. 
-
-  My major is Computer Science and Technology.
+  Hi, my name's Han Huang and I'm now a PhD student at Institute of Automation, Chinese Academy of Sciences.
 
 content:
   # - title: Projects # Title for the section
@@ -94,9 +92,16 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          In the past four years, I learnt most of my knowledge about computer science at Tsinghua University. 
-          
-          I enjoyed my time here and Tsinghua has taught me a lot beyond knowledge.
+          I major in Computer Science and Technology at Tsinghua University.
+
+      - layout: left
+        title: Institute of Automation, Chinese Academy of Sciences.
+        caption: 2022 - Present
+        sub_title: PhD Student
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Now I'm a PhD student at Institute of Automation, Chinese Academy of Sciences.
 
 
   # - title: A Little More About Me
